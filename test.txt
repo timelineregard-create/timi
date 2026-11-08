@@ -1,1 +1,13 @@
-I am learning Git
+MY GIT COMMANDS - ASSIGNMENT
+1. git init - start a new git project
+2. git clone <link> - copy a project from GitHub to my laptop
+3. git status - check what has changed
+4. git add . - add all changes
+5. git add test.txt - add only one file
+6. git commit -m "message" - save the changes with a message
+7. git push origin main - send my changes to GitHub
+8. git pull origin main - bring new changes from GitHub to my laptop
+9. git log - see all my past commits
+10. git branch - see all branches
+11. pwd - see where I am
+12. ls - see files in this folder
